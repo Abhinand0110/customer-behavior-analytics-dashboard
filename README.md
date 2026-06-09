@@ -151,7 +151,7 @@ Use customer segmentation for more effective marketing campaigns.
 
 Main Dashboard
 
-<img width="2080" height="1157" alt="image" src="https://github.com/user-attachments/assets/0a21b668-6537-431e-b128-ca5ac366a12b" />
+<img width="2048" height="1162" alt="image" src="https://github.com/user-attachments/assets/f9840597-1491-4d8c-879a-2239376bc819" />
 
 Insights Page
 
